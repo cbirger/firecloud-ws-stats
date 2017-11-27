@@ -99,3 +99,12 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+#emacs backup files
+*~
+
+# temp file created by get_bucket_sizes.sh
+tmp.txt
+
+# all tsv files
+*.tsv
